@@ -7,7 +7,6 @@ Code, Compile, Run and Debug online from anywhere in world.
 
 *******************************************************************************/
 public class Juet {
-
      String name;
      int age;
      String getName() {
@@ -30,7 +29,6 @@ public class Juet {
         Juet person = new Juet();
         person.setName("Dushyant singh raghuwanshi");
         person.setAge(20);
-
         System.out.println(" "+ person.getName());
         System.out.println(" "+ person.getAge());
     }
